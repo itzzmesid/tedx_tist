@@ -1,0 +1,81 @@
+#intro{
+    background-color: #000000;
+    color: white;
+}
+
+.speaker-head{
+    text-align: center;
+    color: #e62b1e;
+    padding-top: 20px;
+}
+
+.mod{
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Ubuntu";
+}
+
+.row{
+    text-align: center;
+}
+
+#speakers{
+    padding:100px;
+}
+
+
+#register{
+    text-align: center;
+    background-color: #e62b1e;
+    color: white;
+    font-family: "Anton";
+
+}
+.card 
+{
+    display:inline-block;
+
+}
+
+#footer{
+    background-color: #000000;
+    color: white;
+}
+
+.greeting{
+    font-family: "Anton";
+    font-size: 4.2rem;
+    color: #e62b1e;
+}
+
+h1{
+    font-family: "Anton";
+    font-size: 4rem;
+    line-height: 1.5;
+}
+
+/* h2{
+    font-family: "Anton";
+    color: #e62b1e;
+
+} */
+
+.story{
+    line-height: 2;
+    font-family: "Ubuntu";
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: medium;
+}
+
+.row{
+    padding: 50px;
+}
+
+.navabar{
+    padding: 0 0 4.5rem;    
+}
+
+.nav-item{
+    padding: 0 20px;
+}
